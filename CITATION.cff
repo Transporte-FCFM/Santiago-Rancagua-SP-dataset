@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Stated Preference Survey on Interurban Mode Choice: Santiago-Rancagua Corridor, Chile"
+version: 1.0.0
+date-released: 2026-07-08
+license: CC-BY-4.0
+doi: 10.5281/zenodo.XXXXXXX
+authors:
+  - family-names: "González-Aguilera"
+    given-names: "Pablo"
+    affiliation: "Universidad de Chile"
+    # orcid: "https://orcid.org/0009-0005-4750-389X" 
+  - family-names: "Guevara"
+    given-names: "C. Ángelo"
+    affiliation: "Universidad de Chile"
+    # orcid: "https://orcid.org/0000-0001-9307-804X" 
+  - family-names: "Henríquez-Jara"
+    given-names: "Bastián"
+    affiliation: "Universidad de Chile"
+    # orcid: "https://orcid.org/0000-0003-1170-2537"
+  - family-names: "Daziano"
+    given-names: "Ricardo A."
+    affiliation: "Cornell University"
+    # orcid: "https://orcid.org/0000-0002-5613-429X"
+keywords:
+  - stated preference
+  - discrete choice
+  - mode choice
+  - interurban transport
+  - public transport
+  - rail
+  - psychometric indicators
+  - Chile
