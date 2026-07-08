@@ -1,6 +1,6 @@
 # Stated Preference Survey on Interurban Mode Choice, Santiago–Rancagua Corridor, Chile
 
-[![DOI](https://zenodo.org/badge/1294189561.svg)](https://doi.org/10.5281/zenodo.21270301)
+<a href="https://doi.org/10.5281/zenodo.21270301"><img src="https://zenodo.org/badge/1294189561.svg" alt="DOI"></a>
 
 This  dataset contains the responses to a Stated Preference (SP) discrete choice experiment on interurban public transport mode choice in the Santiago-Rancagua corridor (central Chile, aprox. 100 km), complemented with sociodemographics, travel patterns, a 20-item psychometric battery, and stated satisfaction with the habitual service of each mode.
 
